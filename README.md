@@ -16,12 +16,12 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Node.js" width="26px" src="https://toppng.com/uploads/preview/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" />
 <img align="left" alt="Terminal" width="26px" src="https://sequelize.org/master/manual/asset/logo-small.png" />
-<img align="left" alt="Terminal" width="26px" src="https://jongomezdev.github.io/Assets/img/ejs.png" />6
-<img align="left" alt="Terminal" width="26px" src="https://cdn.worldvectorlogo.com/logos/handlebars-1.svg" />5
-<img align="left" alt="Terminal" width="26px" src="https://jongomezdev.github.io/Assets/img/express.jpg" />4
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />3
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />2
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />1
+<img align="left" alt="Terminal" width="26px" src="https://jongomezdev.github.io/Assets/img/ejs.png" />
+<img align="left" alt="Terminal" width="26px" src="https://cdn.worldvectorlogo.com/logos/handlebars-1.svg" />
+<img align="left" alt="Terminal" width="26px" src="https://jongomezdev.github.io/Assets/img/express.jpg" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
 
