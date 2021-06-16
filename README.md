@@ -1,6 +1,6 @@
 ## I'm Jon, a Full Stack Web Developer in the quiet city of New York.
 
--  Coding the tangible benefits of Human Connection to inspire change.
+-  Coding the tangible benefits of human connection to inspire change.
 -  I’m currently a student at Columbia University Engineering Coding Bootcamp.
 -  Open to collaborate on open source projects, contact me!
 -  How to reach me: ``jongomezdev@gmail.com``
