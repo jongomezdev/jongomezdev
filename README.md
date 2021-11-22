@@ -1,4 +1,4 @@
-## Full Stack Web Developer in the quiet city of New York.
+## Software Engineer in the quiet city of New York.
 
 -  Coding the tangible benefits of human connection to inspire change.
 -  Open to collaborate on open source projects, contact me!
